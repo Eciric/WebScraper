@@ -5,5 +5,6 @@ Writen in Java using regex.
 
 Creates an output file with websites header.
 ## How to compile
-`javac WebSscraper.java`
+`javac WebScraper.java`  
+
 `java WebScraper (full website url)`
